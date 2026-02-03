@@ -2,6 +2,7 @@
 
 💻 Web developer in progress • 🎨 UX-focused • ⚡ Always learning
 Currently working with Angular, building projects, and improving my design + frontend skills.
+____________________________________________________
 
 🚀 About me
 
@@ -11,14 +12,16 @@ Currently working with Angular, building projects, and improving my design + fro
 
 🌍 Based in Denmark
 
-🛠️ Interested in: Frontend, UX, performance, and modern web apps
+____________________________________________________
 
 🧰 Tech Stack
 
 Frontend: Angular, TypeScript, HTML, CSS
 Other: Git, GitHub, REST APIs, UI/UX basics
+____________________________________________________
 
 📌 Current Focus
 
 Improving Angular structure & reusable components
 Learning better UI patterns & responsive layouts
+
