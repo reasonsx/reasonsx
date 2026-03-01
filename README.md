@@ -6,7 +6,8 @@ ____________________________________________________
 
 🧰 Tech Stack
 
-Frontend: Angular, TypeScript, HTML, CSS
-Other: Git, GitHub, REST APIs, UI/UX
+Angular, VueJS, TypeScript, HTML, CSS, PHP, Git, GitHub, REST APIs, UI/UX and others.
+
 ____________________________________________________
+
 
