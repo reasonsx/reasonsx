@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/reasonsx"><img src="assets/sheet.svg" width="100%" alt="Character sheet: full-stack developer, quest: OAuth2 / OIDC auth server on Spring Authorization Server" /></a>
+  <a href="https://github.com/reasonsx"><img src="assets/sheet.svg" width="100%" alt="Character sheet and skill tree: Angular, Vue, TypeScript, Java, Spring Boot, PHP, MySQL, UI/UX" /></a>
 </p>
 
 <h3 align="center"><code>[ INVENTORY ]</code></h3>
